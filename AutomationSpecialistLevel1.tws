@@ -3,7 +3,7 @@
   <WorkspaceRepository>
     <RepoClass>SQLiteRepository</RepoClass>
     <DatabasePathAndName>.\Repository\AutomationSpecialistLevel1.db</DatabasePathAndName>
-    <Database>D:\Tosca\AutomationSpecialistLevel1\Repository\AutomationSpecialistLevel1.db</Database>
+    <Database>D:\Tosca\Tosca-AS1\Repository\AutomationSpecialistLevel1.db</Database>
     <DatabaseUser />
     <DatabasePwd />
     <DatabaseSchema />
