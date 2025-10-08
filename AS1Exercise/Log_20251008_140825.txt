@@ -1,0 +1,49 @@
+[3] 2:08:25 PM: Log started for 'D:\Tosca\Tosca-AS1\AS1Exercise\AS1Exercise.tws'
+[3] 2:08:25 PM: Log level: 4
+[3] 2:08:25 PM: Release: 24.2.0.1807
+[3] 2:08:25 PM: Execution Approval is disabled.
+[3] 2:08:25 PM: No service discovery configured.
+[3] 2:08:25 PM:  + AccessibilityTestingUI: AccessibilityTestingUI 24.2.0.1807 (1807)
+[3] 2:08:25 PM:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 2:08:25 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.2.0.1807 (1807)
+[3] 2:08:25 PM:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.2.0.1807 (1807)
+[3] 2:08:25 PM:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.2.0.1807 (1807)
+[3] 2:08:25 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.2.0.1807 (1807)
+[3] 2:08:25 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.2.0.1807 (1807)
+[3] 2:08:25 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.2.0.1807 (1807)
+    + : SAPSolutionManagerIntegration 24.2.0.1807 (1807)
+[3] 2:08:25 PM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.2.0.1807 (1807)
+[3] 2:08:25 PM:  + RemoteControl: RemoteControlAddIn 24.2.0.1807 (1807)
+[3] 2:08:25 PM:  + Reporting: ReportingAddIn 24.2.0.1807 (1807)
+[3] 2:08:25 PM:  + ReportingUI: ReportingUIAddIn 24.2.0.1807 (1807)
+[3] 2:08:25 PM:  + RequirementsManagementAddIn: RequirementsManagement 24.2.0.1807 (1807)
+[3] 2:08:25 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.2.0.1807 (1807)
+[3] 2:08:25 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.2.0.1807 (1807)
+[3] 2:08:25 PM:  + TestCaseDesign: TestCaseDesign 24.2.0.1807 (1807)
+[3] 2:08:25 PM: Opened from Workspace File 'D:\Tosca\Tosca-AS1\AS1Exercise\AS1Exercise.tws'
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Ready'
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Ready'
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 2:08:29 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 2:08:29 PM: OpenWorkspace took 00:00:06.0496232 to finish
+[2] 2:08:29 PM: Common repository is not available
+[4] 2:08:34 PM:  ShowStatusInfo: 'Ready'
