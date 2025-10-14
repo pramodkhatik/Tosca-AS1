@@ -3,7 +3,7 @@
   <WorkspaceRepository>
     <RepoClass>SQLiteRepository</RepoClass>
     <DatabasePathAndName>.\Repository\AS1Exercise.db</DatabasePathAndName>
-    <Database>D:\Tosca\Tosca-AS1\AS1Exercise\Repository\AS1Exercise.db</Database>
+    <Database>C:\@Tasks\Tosca-AS1\AS1Exercise\Repository\AS1Exercise.db</Database>
     <DatabaseUser />
     <DatabasePwd />
     <DatabaseSchema />
